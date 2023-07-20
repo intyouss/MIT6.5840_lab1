@@ -1,2 +1,2 @@
-# MIT6.824_lab1
-MIT6.824课程Lab 1
+# MIT6.5840_lab1
+MIT6.5840课程Lab 1
